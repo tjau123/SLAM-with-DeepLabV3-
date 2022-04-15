@@ -1,0 +1,5 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -G Ninja "/media/hjx/Ubuntu 18.0/优盘/catkin_ws/src/DS-SLAM/Examples/myROS/ORB_SLAM2_PointMap_SegNetM/libsegmentation/test"
+Build type: Debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/hjx/Ubuntu 18.0/优盘/catkin_ws/src/DS-SLAM/Examples/myROS/ORB_SLAM2_PointMap_SegNetM/libsegmentation/test/cmake-build-debug

@@ -1,0 +1,60 @@
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/rgbd_tum 
+Vocabulary/ORBvoc.bin
+ Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml 
+rgbd_dataset_freiburg3_walking_xyz/ 
+rgbd_dataset_freiburg3_walking_xyz/associate.txt 
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt 
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/segnet_pascal\(1\).caffemodel 
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+
+
+
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_halfsphere /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_halfsphere/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg2_desk_with_person
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg2_desk_with_person /home/hjx/datasets/rgbd_dataset_freiburg2_desk_with_person/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg3_sitting_rpy
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_rpy /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_rpy/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg3_sitting_static
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_static /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_static/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg3_sitting_xyz
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_xyz /home/hjx/datasets/rgbd_dataset_freiburg3_sitting_xyz/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg3_walking_rpy
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_walking_rpy /home/hjx/datasets/rgbd_dataset_freiburg3_walking_rpy/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg3_walking_static
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_walking_static /home/hjx/datasets/rgbd_dataset_freiburg3_walking_static/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+rgbd_dataset_freiburg3_walking_xyz
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+自己数据集park1
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/park1 /home/hjx/datasets/park1/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+
+自己数据集road5
+./Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM Vocabulary/ORBvoc.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/road5 /home/hjx/datasets/road5/associations.txt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt Examples/ROS/ORB_SLAM2_PointMap_SegNetM/models/segnet_pascal.caffemodel Examples/ROS/ORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+ ./Examples/myROS/myORB_SLAM2_PointMap_SegNetM/myTUM Vocabulary/ORBvoc.txt Examples/myROS/myORB_SLAM2_PointMap_SegNetM/TUM3.yaml /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz/associations.txt Examples/myROS/myORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt /media/hjx/Ubuntu 18.0/优盘/pb/frozen_inference_graph.pbpython Examples/myROS/myORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+ ./Examples/myROS/myORB_SLAM2_PointMap_SegNetM/myTUM
+ Vocabulary/ORBvoc.txt
+ Examples/myROS/myORB_SLAM2_PointMap_SegNetM/TUM3.yaml
+ /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz
+ /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz/associations.txt
+ Examples/myROS/myORB_SLAM2_PointMap_SegNetM/prototxts/segnet_pascal.prototxt
+ /media/hjx/Ubuntu 18.0/优盘/pb/frozen_inference_graph.pbpython
+ Examples/myROS/myORB_SLAM2_PointMap_SegNetM/tools/pascal.png
+
+
+
+
+
+
