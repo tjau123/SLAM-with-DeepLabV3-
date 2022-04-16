@@ -18,7 +18,7 @@ make -j4
 
 cd ../../../
 
-echo "Configuring and building libsegmentation.so ..."
+echo "Configuring and building libmysegmentation.so ..."
 
 cd Examples/myROS/myORB_SLAM2_PointMap_SegNetM/libsegmentation
 mkdir build
@@ -28,7 +28,7 @@ make -j4
 
 cd ../../../../../
 
-echo "Configuring and building libORB_SLAM2_PointMap_SegNetM.so ..."
+echo "Configuring and building libmyORB_SLAM2_PointMap_SegNetM.so ..."
 
 mkdir build
 cd build
@@ -38,7 +38,7 @@ make -j4
 cd ..
 
 
-echo "Configuring and building Executable TUM ..."
+echo "Configuring and building Executable myTUM ..."
 
 cd Examples/myROS/myORB_SLAM2_PointMap_SegNetM
 mkdir build
