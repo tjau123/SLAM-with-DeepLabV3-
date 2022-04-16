@@ -1,8 +1,8 @@
 <launch>  
 
 	<!-- orb slam  -->
-	<node pkg="ORB_SLAM2_PointMap_SegNetM" 
-	name="TUM" type="TUM" 
+	<node pkg="myORB_SLAM2_PointMap_SegNetM" 
+	name="myTUM" type="myTUM" 
 	args="$(find ORB_SLAM2_PointMap_SegNetM)/../../../Vocabulary/ORBvoc.bin 
 		$(find ORB_SLAM2_PointMap_SegNetM)/TUM3.yaml
 		 /home/hjx/datasets/rgbd_dataset_freiburg3_walking_xyz/
