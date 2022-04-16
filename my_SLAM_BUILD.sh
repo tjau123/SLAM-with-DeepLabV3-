@@ -20,7 +20,7 @@ cd ../../../
 
 echo "Configuring and building libsegmentation.so ..."
 
-cd Examples/ROS/ORB_SLAM2_PointMap_SegNetM/libsegmentation
+cd Examples/myROS/myORB_SLAM2_PointMap_SegNetM/libsegmentation
 mkdir build
 cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
@@ -40,7 +40,7 @@ cd ..
 
 echo "Configuring and building Executable TUM ..."
 
-cd Examples/ROS/ORB_SLAM2_PointMap_SegNetM
+cd Examples/myROS/myORB_SLAM2_PointMap_SegNetM
 mkdir build
 cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
